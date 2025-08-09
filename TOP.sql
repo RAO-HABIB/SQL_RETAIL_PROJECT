@@ -1,0 +1,1 @@
+SELECT TOP 2000 * FROM SalesTransaction;

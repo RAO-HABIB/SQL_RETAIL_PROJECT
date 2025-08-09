@@ -1,0 +1,1 @@
+SELECT * FROM SalesTransaction WHERE Quantity IS NULL;
